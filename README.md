@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManojSahoo
+- 👋 Hi, I’m @ManojSahoo6
 - 👀 I’m Interested in web dev, mobile apps, and data science. 
 - 🌱 I’m Currently learning JavaScript, Python, and cloud computing. 
 - 💞️ I’m Looking to collaborate on open-source and impact-driven projects.
