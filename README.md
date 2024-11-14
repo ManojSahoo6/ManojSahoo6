@@ -2,7 +2,7 @@
 - 👀 I’m Interested in web dev, mobile apps, and data science. 
 - 🌱 I’m Currently learning JavaScript, Python, and cloud computing. 
 - 💞️ I’m Looking to collaborate on open-source and impact-driven projects.
-- 📫 Reach me: manojcvraman@proton.me  
+- 📫 Reach me:   
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Enjoy hiking and DIY electronics.
 
